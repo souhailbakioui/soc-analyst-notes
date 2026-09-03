@@ -1,0 +1,13 @@
+Sep 03 09:00:01 server sshd[1001]: Failed password for invalid user admin from 203.0.113.45 port 45001 ssh2
+Sep 03 09:00:03 server sshd[1002]: Failed password for invalid user admin from 203.0.113.45 port 45002 ssh2
+Sep 03 09:00:05 server sshd[1003]: Failed password for root from 203.0.113.45 port 45003 ssh2
+Sep 03 09:00:07 server sshd[1004]: Failed password for root from 203.0.113.45 port 45004 ssh2
+Sep 03 09:00:10 server sshd[1005]: Failed password for user from 198.51.100.27 port 46001 ssh2
+Sep 03 09:00:12 server sshd[1006]: Failed password for user from 198.51.100.27 port 46002 ssh2
+Sep 03 09:00:15 server sshd[1007]: Failed password for test from 192.0.2.18 port 47001 ssh2
+Sep 03 09:00:20 server sshd[1008]: Failed password for invalid user guest from 203.0.113.45 port 45005 ssh2
+Sep 03 09:01:01 server sshd[1009]: Accepted password for analyst from 192.0.2.50 port 48001 ssh2
+Sep 03 09:02:15 server sshd[1010]: Failed password for invalid user admin from 203.0.113.45 port 45006 ssh2
+Sep 03 09:02:20 server sshd[1011]: Failed password for invalid user admin from 203.0.113.45 port 45007 ssh2
+Sep 03 09:03:10 server sshd[1012]: Failed password for service from 198.51.100.27 port 46003 ssh2
+Sep 03 09:04:22 server sshd[1013]: Failed password for test from 192.0.2.18 port 47002 ssh2
